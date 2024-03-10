@@ -1,2 +1,2 @@
 # terraform_c
-Here's my tf projects
+Here's my project in creation of EKS cluster with Terraform
